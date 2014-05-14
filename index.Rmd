@@ -24,7 +24,7 @@ Yep, this is a total rip off of [JSforcats.com](http://jsforcats.com) - hopefull
 * [Using packages](#packages)
 * [No no's for cats using R](#nonos)
 * [Do do's for cats - or things to do](#dodos)
-* [Open data from the web! Cat's love open data](#data)
+* [Open data from the web! Cats love open data](#data)
 * [Reading](#reading)
 * [Does this site suck?](#makeitbetter)
 
